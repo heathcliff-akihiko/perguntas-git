@@ -1,9 +1,10 @@
 # Responda cada pergunta abaixo com suas palavras.
-As respostas estão [aqui](https://github.com/heathcliff-akihiko/perguntas-git/blob/main/respostas.md)
+## As respostas estão **[aqui]**(https://github.com/heathcliff-akihiko/perguntas-git/blob/main/respostas.md)
 
-# NÃO ESQUEÇA
-### VOCÊ PODE OLHAR AS RESPOSTAS A QUALQUER MOMENTO MAS SE VOCÊ DESEJA TESTAR SEUS CONHECIMENTOS
+# **NÃO ESQUEÇA**
+### VOCÊ PODE OLHAR AS RESPOSTAS A QUALQUER MOMENTO MAS SE VOCÊ DESEJA realmente TESTAR SEUS CONHECIMENTOS RESPONDA COM SUAS PALAVRAS
 ### CASO NÃO SAIBA RESPONDER UMA DAS PERGUNTAS PESQUISE, REVEJA SUAS ANOTAÇÕES, TESTE NO SEU CONSOLE, CONSULTE A DOCUMENTAÇÃO, SEMPRE BUSCANDO APRENDER E NÃO DECORAR
+### LEMBRANDO QUE O QUE IMPORTA É QUE AS REPOSTA ESTEJA CERTA, NÃO COM AS MESMAS PALAVRAS.
 
 # BOA SORTE
 
