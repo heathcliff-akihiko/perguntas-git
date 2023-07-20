@@ -1,7 +1,7 @@
 # Responda cada pergunta abaixo com suas palavras.
 As respostas estão [aqui](https://github.com/heathcliff-akihiko/perguntas-git/blob/main/respostas.md)
 
-#NÃO ESQUEÇA
+# NÃO ESQUEÇA
 ### VOCÊ PODE OLHAR AS RESPOSTAS A QUALQUER MOMENTO
 ### MAS SE VOCÊ DESEJA TESTAR SEUS CONHECIMENTOS
 ### CASO NÃO SAIBA RESPONDER UMA DAS PERGUNTAS
