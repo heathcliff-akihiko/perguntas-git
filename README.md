@@ -8,6 +8,45 @@
 
 # BOA SORTE
 
+# Introdução ao Git
+
+O Git é um sistema de controle de versão distribuído, amplamente utilizado para o gerenciamento de projetos de software. Ele permite que várias pessoas trabalhem em um projeto simultaneamente, rastreando as mudanças feitas ao longo do tempo.
+
+## Principais Conceitos do Git
+
+- **Repositório:**
+  - Um repositório é um local onde o Git armazena todas as versões de um projeto.
+
+- **Commit:**
+  - Um commit é uma alteração feita no código. Cada commit tem uma mensagem descritiva que ajuda a entender as alterações feitas.
+
+- **Branch (ramo):**
+  - Um branch é uma ramificação do código principal. Ele permite que você trabalhe em novas funcionalidades sem afetar diretamente o código principal.
+
+## Principais Comandos do Git
+
+1. `git init` - Inicia um novo repositório Git em um diretório existente.
+
+2. `git clone <URL do repositório>` - Clona um repositório existente para um novo diretório local.
+
+3. `git add <nome do arquivo>` - Adiciona mudanças ao índice para preparação do commit.
+
+4. `git commit -m "Mensagem do commit"` - Grava as mudanças no repositório.
+
+5. `git pull origin <nome do branch>` - Atualiza o repositório local com as alterações remotas.
+
+6. `git push origin <nome do branch>` - Envia as alterações locais para o repositório remoto.
+
+7. `git branch` - Lista, cria ou exclui branches.
+
+8. `git merge <nome do branch>` - Combina as alterações de um branch em outro.
+
+9. `git log` - Exibe o histórico de commits.
+
+## Conclusão
+
+O Git é uma ferramenta poderosa para o gerenciamento de código-fonte, permitindo colaboração eficiente e rastreamento de alterações. A compreensão desses comandos básicos é essencial para utilizar o Git de maneira eficaz.
+
 ## Exercícios de Git - Nível Básico:
 
  1. Como inicializar um repositório Git em um diretório local?
